@@ -7,7 +7,7 @@ This repository contains the analysis of Cyclistic bike-share data from Q1 2023.
 
 ### 1. Data Preparation
 
-We load and clean the data for three months (January, February, March 2023):
+load and clean the data for three months (January, February, March 2023):
 
 ```r
 # Load required libraries
@@ -93,7 +93,7 @@ ggplot(df_combined, aes(x=Month_start, fill=member_casual)) +
   theme_minimal()
 
 
- ### Conclusion + Reccomondations
+  Conclusion + Reccomondations
 
 In conclusion: Casual riders had an increase in March and also an increase during the weekend, Members primarily use bikes during commute hours on weekdays, and Casual riders tend to take longer trips
 
