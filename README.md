@@ -1,7 +1,6 @@
 ## This is my capstone for Cyclistic bike share 
 
 # Cyclistic Q1 2023 Data Analysis
-
 This repository contains the analysis of Cyclistic bike-share data from Q1 2023. This analysis focuses on understanding the differences in usage between **casual riders** and **annual members** and providing insights to help convert casual riders into annual members.
 
 ## Analysis Process
