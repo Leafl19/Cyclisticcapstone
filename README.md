@@ -95,7 +95,8 @@ ggplot(df_combined, aes(x=Month_start, fill=member_casual)) +
 
   Conclusion + Reccomondations
 
-In conclusion: Casual riders had an increase in March and also an increase during the weekend, Members primarily use bikes during commute hours on weekdays, and Casual riders tend to take longer trips
+In conclusion: Casual riders had an increase in rides during  March and also an increase in rids during the weekend,
+Members primarily use bikes during commute hours on weekdays, and Casual riders tend to take longer trips
 
 Focus on seasonal and weekend Usage: 
   # Offering membership deals tied to seasonal and weekends could encourage casual riders to become annual riders 
